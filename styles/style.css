@@ -1,0 +1,22 @@
+﻿.container {
+    border: 2px solid #53cf3b;
+    border-radius: 10px;
+    width: 500px;
+    padding:10px;
+    background-color: #b4f7ed;
+}
+div {
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+}
+img  {
+    float:right;
+}
+h1, h3 {
+    display: inline;
+}
+
+.hidden {
+    display: none;
+}
